@@ -1,9 +1,179 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+   "data":[
+    {
+        "id":1,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/52d108ac-5a70-c849-7e2f-417f9faa388a/original/Brown-Eggs---Pack-Of-6-Hero-Shot.jpg?format=webp" ,
+        "title":"Brown Eggs - Pack of 6" , 
+        "pieces": "6 pieces" , 
+        "price": 90 
+    },
+    {
+        "id":2,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/af189f08-8063-fdb3-60da-054b9c02b537/original/1601405662.7327--2020-09-3000_24_22--472.jpeg",
+        "title":"Country Eggs - Pack of 12" , 
+        "pieces": "12 pieces" , 
+        "price": 181 
+    },
+    {
+        "id":3,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0103f393-83db-a8aa-d2f7-2bceb6c6af36/original/Classic-Eggs---Pack-of-6--Hero-Shot.jpg" ,
+        "title":"Classic Eggs - Pack of 6" , 
+        "pieces": "6 pieces" , 
+        "price": 70 
+    },
+    {
+        "id":4,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c128220a-8ac2-2407-13ad-12e90cd8a5ed/original/Hero-Shotjpg.jpg" ,
+        "title":"Duck Eggs - Pack of 6" , 
+        "pieces": "6 pieces" , 
+        "price": 150 
+    },
+    {
+        "id":5,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/67bd4ba7-c0b6-cdf0-f0ca-11167f247ed4/original/1607935620.1251--2020-12-1414_17_00--738.jpeg" ,
+        "title":"Quail Eggs - Pack of 12" , 
+        "pieces": "12 pieces" , 
+        "price": 91 
+    },
+    {
+        "id":6,
+        "image":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_156ko17lb9z/1/prod_display_image/1620095732.3083--2021-05-0408:05:32--738" ,
+        "title":"Chunky Garlic Mustard Egg Spread" , 
+        "pieces": "1 pieces" , 
+        "price": 149 
+    },
+    {
+        "id":7,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/91222c8d-38b5-ed3f-b845-3c732cef4ed5/original/Chunky-Creamy-Tomato-Egg---Bottle.jpg" ,
+        "title":"Chunky Creamy Tomato Egg Spread" , 
+        "pieces": "1 pieces" , 
+        "price": 149 
+    },
+    {
+        "id":8,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/30427abd-740f-9228-4168-4b468b34bbf7/original/New.jpg" ,
+        "title":"Awadhi Mutton Biryani | Meat & Masala Mix" , 
+        "pieces": "500gms pieces" , 
+        "price": 649 
+    },
+    {
+        "id":9,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/e294b1dc-0e0f-42fb-9d80-9edf19fe7f31/original/New.jpg" ,
+        "title":"Hyderabadi Mutton Biryani | Meat & Masala Mix" , 
+        "pieces": "500gms pieces" , 
+        "price": 649 
+    },
+    {
+        "id":10,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d26d4ef2-dd85-5072-c442-4d27b3ffffc0/original/masla_combo_5_products-04.jpg" ,
+        "title":"Chicken Curry Combo" , 
+        "pieces": "COMBO" , 
+        "price": 228 
+    },
+    {
+        "id":11,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/31654c3c-4eb6-3c00-7f65-e1a72f11f2c0/original/uncooked_(8).jpg" ,
+        "title":"Chicken 65 | 12-14 pieces" , 
+        "pieces": "300gms" , 
+        "price": 249 
+    },
+    {
+        "id":12,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a10fc624-df33-07d9-c1e2-be515a700136/original/Chicken_Liver_Hero_Shot.jpg" ,
+        "title":"Chicken Liver | 7-9 pieces" , 
+        "pieces": "350gms" , 
+        "price": 85 
+    },
+    {
+        "id":13,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e24cc39-9900-c195-0289-67dc720c76e6/original/CBBCBCS.jpg" ,
+        "title":"Chicken Breast Fillet" , 
+        "pieces": "COMBO" , 
+        "price": 478 
+    },
+    {
+        "id":14,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/45f435a7-e342-6df7-a418-6eb139e076e6/original/Chicken-Drumstick+Chicken-Chatpata-Pakora.jpg" ,
+        "title":"Chicken DrumStick- pack of 6" , 
+        "pieces": "COMBO" , 
+        "price": 478 
+    },
+    {
+        "id":15,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/331c6046-434a-23d5-d4bc-f08172b55e01/original/christmas_old_7_sku_-05.jpg" ,
+        "title":"Goan Prawn Curry" , 
+        "pieces": "350gms" , 
+        "price": 399 
+    },
+    {
+        "id":16,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/54a88df7-f669-140f-230c-92f1f1db07ff/original/Crispy-Prawns-_-Tagjpg.jpg" ,
+        "title":"Crispy Prawns" , 
+        "pieces": "200gms" , 
+        "price": 332 
+    },
+    {
+        "id":17,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/4f003ba8-d470-247b-435d-422a1a57f984/original/1591960259.2414--2020-06-1216_40_59--738.jpeg" ,
+        "title":"White Prawns / Seegadi" , 
+        "pieces": "250gms" , 
+        "price": 149 
+    },
+    {
+        "id":18,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/03fe83f5-807d-a6fb-78e2-c2a3e4206790/original/Oriental-Combo-pack-.jpeg" ,
+        "title":"Assorted Spreads Combo" , 
+        "pieces": "COMBO" , 
+        "price": 105 
+    },
+    {
+        "id":19,
+        "image":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_jt8kbgb1utl/1/prod_display_image/1634637161.5399--2021-10-1915:22:41--1818" ,
+        "title":"Chunky Butter Garlic Prawn Spread" , 
+        "pieces": "1 pieces", 
+        "price": 249 
+    },
+    {
+        "id":20,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9d9b51a5-9e99-fd59-0cf2-8b213ca33927/original/Salami-&-Egg-Spread-1.jpg" ,
+        "title":"Breakfast Combo - Egg Spread & Salami" , 
+        "pieces": "COMBO" , 
+        "price": 331 
+    },
+    {
+        "id":21,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/78b69666-e996-a818-3609-e68b7884c4a4/original/Chicken-Ghee-Roast-.jpg" ,
+        "title":"Chicken Ghee Roast | 6-7 piece" , 
+        "pieces": "400gms" , 
+        "price": 299 
+    },
+    {
+        "id":22,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0118552d-3224-6151-8967-e0f8c322b394/original/Fish-Tikka-Tag.jpg" ,
+        "title":"Fish Tikka", 
+        "pieces": "350gms", 
+        "price": 369 
+    },
+    {
+        "id":23,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/81615de6-aed2-8ad2-e34a-5ae3ab0af7d3/original/masla_combo_5_products-05.jpg" ,
+        "title":"Fish Fry Combo" , 
+        "pieces": "COMBO", 
+        "price": 564 
+    },
+    {
+        "id":24,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b470bc17-22cf-73d2-885c-d8d1f73863f6/original/p2_tile_images-41_(1).jpg" ,
+        "title":"Bowel Fish" , 
+        "pieces": "300gms", 
+        "price": 350 
+    },
+    {
+        "id":25,
+        "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9e5e8b4b-f28e-4eee-dc32-d4377292fc37/original/WhatsApp_Image_2022-06-08_at_1.14.47_PM.jpeg" ,
+        "title":"Mutton Heart | 20-22 pieces" , 
+        "pieces": "250gms", 
+        "price": 205 
+    }
+   ]
 }
